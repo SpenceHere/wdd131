@@ -1,0 +1,40 @@
+body {
+    max-width: 80%;
+    padding: 10%;
+}
+
+h1 {
+    text-align: center;
+    font-size: 4em;
+    font-family: 'Arial Narrow Bold', sans-serif;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(50, 50, 190);
+    font-size: 1.5em;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+hr {
+    width: 80%;
+}
+
+div p {
+    font-style: italic;
+}
+
+p, li {
+    font-size: 30px;
+    line-height: 2em;
+}
+
+footer {
+    text-align: center;
+}
+
+img {
+    width: 50%; 
+    display: block; 
+    margin: 50px auto;
+}
